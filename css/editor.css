@@ -137,16 +137,16 @@ a:hover {
 
 #mapSpace {
 	position: relative;
-	min-width: 4000px;
-	min-height: 4000px;
+	min-width: 5000px;
+	min-height: 5000px;
 	left: 0px;
 	top: 0px;
 	
-	background-color: #9F7DDA;
-	background-image: url("../img/background-cat.png"), url("../img/background-grid.png");
-	background-position: center, left top;
-	background-repeat: no-repeat, repeat;
-	background-attachment: fixed, local;
+	background-color: #65587d;
+	background-image: url("../img/background-grid.png");
+	background-position: left top;
+	background-repeat: repeat;
+	background-attachment: local;
 }
 
 
